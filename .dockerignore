@@ -1,20 +1,20 @@
-# ###  Custom ###
-# .classic-output/
-# .ignored-output/
+###  Custom ###
+.classic-output/
+.ignored-output/
 
-# ###  VisualStudioCode ###
-# .vscode/
+###  VisualStudioCode ###
+.vscode/
 
-# ###  Project ### 
-# .dockerignore
-# .gitignore
-# Dockerfile
-# LICENSE
-# One-Stage.Dockerfile
-# One-Stage.Dockerfile.dockerignore
-# Readme.md
+###  Project ### 
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+One-Stage.Dockerfile
+One-Stage.Dockerfile.dockerignore
+Readme.md
 
-# ###  DotnetCore ###
-# src/bin
-# src/obj
-# src/Properties
+###  DotnetCore ###
+src/bin
+src/obj
+src/Properties
