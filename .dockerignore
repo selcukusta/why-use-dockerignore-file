@@ -1,0 +1,18 @@
+# Custom ###
+.classic-output/
+.ignored-output/
+
+# VisualStudioCode ###
+.vscode/
+
+# Project ### 
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+Readme.md
+
+# DotnetCore ###
+src/bin
+src/obj
+src/Properties

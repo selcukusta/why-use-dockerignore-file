@@ -1,0 +1,23 @@
+### Custom ###
+.classic-output
+.ignored-output
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+### DotnetCore ###
+# .NET Core build folders
+src/bin
+src/obj
+
+# Common node modules locations
+src/node_modules
+src/wwwroot/node_modules
